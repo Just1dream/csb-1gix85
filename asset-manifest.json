@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://just1dream.github.io/csb-1gix85/static/css/main.383fdbca.chunk.css",
+    "main.js": "https://just1dream.github.io/csb-1gix85/static/js/main.bb422118.chunk.js",
+    "main.js.map": "https://just1dream.github.io/csb-1gix85/static/js/main.bb422118.chunk.js.map",
+    "runtime-main.js": "https://just1dream.github.io/csb-1gix85/static/js/runtime-main.861ce660.js",
+    "runtime-main.js.map": "https://just1dream.github.io/csb-1gix85/static/js/runtime-main.861ce660.js.map",
+    "static/js/2.588d237d.chunk.js": "https://just1dream.github.io/csb-1gix85/static/js/2.588d237d.chunk.js",
+    "static/js/2.588d237d.chunk.js.map": "https://just1dream.github.io/csb-1gix85/static/js/2.588d237d.chunk.js.map",
+    "index.html": "https://just1dream.github.io/csb-1gix85/index.html",
+    "static/css/main.383fdbca.chunk.css.map": "https://just1dream.github.io/csb-1gix85/static/css/main.383fdbca.chunk.css.map",
+    "static/js/2.588d237d.chunk.js.LICENSE.txt": "https://just1dream.github.io/csb-1gix85/static/js/2.588d237d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.861ce660.js",
+    "static/js/2.588d237d.chunk.js",
+    "static/css/main.383fdbca.chunk.css",
+    "static/js/main.bb422118.chunk.js"
+  ]
+}
